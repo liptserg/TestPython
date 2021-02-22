@@ -23,6 +23,5 @@ def main():
     print(next(i))
     print(next(i))
 
-    print(c)
 
 main()
