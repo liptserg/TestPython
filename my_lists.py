@@ -1,4 +1,4 @@
-
+import test1
 
 def main():
     a = [4, 5, 6, 5]
@@ -21,7 +21,7 @@ def main():
     i = iter(a)
     print(next(i))
     print(next(i))
+    print(test1.test())
     print(next(i))
-
 
 main()
